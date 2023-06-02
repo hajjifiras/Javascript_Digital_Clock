@@ -1,0 +1,15 @@
+h1{
+    border-color: transparent;
+    font-size: 50px;
+    font-weight: 200;
+    font-family:monospace;
+    color: azure;
+}
+body
+{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+     background: linear-gradient(rgba(128, 255, 0, 0.493),rgba(196, 7, 79, 0.479));
+    height: 1000px;
+}
