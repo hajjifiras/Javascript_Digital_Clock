@@ -9,8 +9,7 @@ const start = () => {
     mm = mm < 10 ? mm = "0" + mm : mm;
     ss = ss < 10 ? ss = "0" + ss : ss;
     D.textContent = hh + ":" + mm + ":" + ss;
-
 }
-//function 
+
 start();
 setInterval(start, 1000);
